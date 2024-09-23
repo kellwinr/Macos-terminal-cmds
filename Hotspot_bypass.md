@@ -22,7 +22,7 @@
 
 `chmod +x /var/root/set-ios-tcp-stack.sh`
 
-8. This Ensures that it is enabled to run automatically in the future.
+8. This ensures that it is enabled to run automatically in the future.
 
 `launchctl load -w /Library/LaunchDaemons/felikcat.set.ios.tcpstack.plist`
 
