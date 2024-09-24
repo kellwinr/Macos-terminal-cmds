@@ -1,4 +1,4 @@
-## Brew <a href="https://brew.sh">Official URL</a>
+## Brew <a href="https://brew.sh">LinkL</a>
 ### Install Brew 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
