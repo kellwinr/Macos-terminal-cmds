@@ -2,7 +2,7 @@
 ### Install Brew
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
-#### Check Installed Brew CLIs
+#### Check Installed Brew CLIs/Packages
 `brew ls`
 
 #### Check Brew Instructions/Functions
