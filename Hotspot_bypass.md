@@ -58,6 +58,13 @@ Run these 2 command after every sleep or restarts
 `sudo sysctl -w net.inet6.ip6.hlim=65`
 
 --------------------------------------------------------------------------
+
 ## References
 1. https://github.com/felikcat/unlimited-hotspot.git
 2. http://noahdavids.org/self_published/TTL_values.html
+
+--------------------------------------------------------------------------
+
+## Disclaimer
+1. This is created for education purposes, use it at your own risk
+2. I don't know if PairVPN has an effect on this yet but will try it when the next major macOS releases
