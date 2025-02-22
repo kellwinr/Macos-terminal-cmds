@@ -67,4 +67,4 @@ Run these 2 command after every sleep or restarts
 
 ## Disclaimer
 1. This is created for education purposes, use it at your own risk
-2. I don't know if PairVPN has an effect on this yet but will try it when the next major macOS releases
+2. I don't know if PairVPN has an effect on this yet but will try it when the next major macOS version releases
