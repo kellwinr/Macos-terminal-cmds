@@ -19,3 +19,6 @@
 
 #### Apple Music RPC <a href="https://github.com/NextFire/apple-music-discord-rpc">GitHub Link</a>
 
+#### Neofetch (deprecated) <a href="https://formulae.brew.sh/formula/neofetch">Brew Link</a>
+
+1. `brew install neofetch`
