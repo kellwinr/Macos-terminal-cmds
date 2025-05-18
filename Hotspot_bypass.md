@@ -1,4 +1,4 @@
-## Bypassing Hotspot detection on modern macOS versions (tested on macOS 15.3.1)
+## Bypassing Hotspot detection on modern macOS versions (tested on macOS 15.5)
 
 1. Download the file from <a href="https://github.com/felikcat/unlimited-hotspot.git">this Github Repository</a>
 
