@@ -5,3 +5,7 @@ Collection of terminal commands for modern macOS versions
 3. <a href="https://github.com/kellwinr/Macos-terminal-cmds/blob/16dbef4f1c73571da81b46f2389db1366f64412f/Network_Checks.md">Network Check</a>
 4. <a href="https://github.com/kellwinr/Macos-terminal-cmds/blob/cd93e139c07fd2a5ef7273aaa95e8036e5d932d1/brew.md">Brew</a>
 5. <a href="https://github.com/kellwinr/Macos-terminal-cmds/blob/52f3d0e96844bb20bb6d16df2db7cd1ca6b013ea/ADB.md">ADB</a>
+6. <a href="https://github.com/kellwinr/Macos-terminal-cmds/blob/4d8bf812377532ed932b63d0f8317df0805c49d1/Basic%20commands.md">Basic File-Related Commands</a>
+
+
+
