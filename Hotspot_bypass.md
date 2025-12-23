@@ -1,6 +1,7 @@
-## Bypassing Hotspot detection on modern macOS versions (tested on macOS 26.0.1)
+## Bypassing Hotspot detection on modern macOS versions (tested on macOS 26.2)
+**NOTE: Block/disable IPv6 from network settings (Settings/WI-FI→details→TCP/IP→Configure IPv6 (use "Link-Local Only")**
 
-1. Download the file from <a href="https://github.com/felikcat/unlimited-hotspot.git">this Github Repository</a>
+1. Download the file from (**v8** check in *releases*) <a href="https://github.com/felikcat/unlimited-hotspot.git">this Github Repository</a>
 
 2. After extracted, open the "unlimited-hotspot-main" folder, open the "macOS" folder.
 
