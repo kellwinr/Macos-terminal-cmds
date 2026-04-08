@@ -10,6 +10,9 @@ If you have issues with xcode downloading, you can install xcode before hand wit
 #### Check Brew Instructions/Functions
 `brew help`
 
+#### Uninstall Brew contents
+`brew uninstall [brew package name]`
+
 ### Brew CLI
 #### Speedtest <a href="https://www.speedtest.net/apps/cli">Official URL</a>
 
@@ -24,3 +27,7 @@ If you have issues with xcode downloading, you can install xcode before hand wit
 #### Neofetch (deprecated) <a href="https://formulae.brew.sh/formula/neofetch">Brew Link</a>
 
 1. `brew install neofetch`
+
+#### Logi Option+
+
+1. `brew install --cask logi-options-plus`
