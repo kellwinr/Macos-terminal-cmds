@@ -2,6 +2,8 @@
 ### Install Brew 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
+If you have issues with xcode downloading, you can install xcode before hand with `xcode-select --install`.
+
 #### Check Installed Brew CLIs/Packages
 `brew ls`
 
