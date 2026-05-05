@@ -31,3 +31,7 @@ If you have issues with xcode downloading, you can install xcode before hand wit
 #### Logi Option+
 
 1. `brew install --cask logi-options-plus`
+
+#### YT-DLP <a href="https://github.com/yt-dlp/yt-dlp">GitHub Link</a> | <a href="https://formulae.brew.sh/formula/yt-dlp">Brew Link</a> 
+
+1. `brew install yt-dlp`
